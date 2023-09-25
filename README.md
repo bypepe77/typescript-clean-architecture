@@ -17,16 +17,22 @@ This repository showcases an example of structuring a modern web application usi
 3. **Testability**: Business logic can be tested in isolation, without the need for UI, databases, web servers, or other external elements.
 4. **Decoupled Design**: Thanks to `tsyringe`, the application components are decoupled, fostering a design where pieces can be swapped or replaced with minimal friction.
 
-## Setup & Run:
+## How to contribute?
 Clon or fork this project.
 
+## Setup & Run:
 \```bash
 # Install dependencies
 npm install
 
 # Start the application
 npm start
+
+# Start the application in dev mode
+npm run dev
 \```
+
+
 
 ## Contributions:
 Your feedback and contributions are invaluable. Feel free to fork this repository, submit issues, or provide pull requests. Together, we can make this a reference for TypeScript projects!
