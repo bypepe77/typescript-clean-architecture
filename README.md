@@ -36,3 +36,6 @@ npm run dev
 
 ## Contributions:
 Your feedback and contributions are invaluable. Feel free to fork this repository, submit issues, or provide pull requests.
+
+
+[![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/bypepe77/typescript-clean-architecture)](https://github.com/bypepe77/typescript-clean-architecture/stargazers)
