@@ -21,7 +21,6 @@ This repository showcases an example of structuring a modern web application usi
 Clon or fork this project.
 
 ## Setup & Run:
-\```bash
 # Install dependencies
 npm install
 
@@ -30,7 +29,6 @@ npm start
 
 # Start the application in dev mode
 npm run dev
-\```
 
 
 
