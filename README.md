@@ -39,3 +39,4 @@ Your feedback and contributions are invaluable. Feel free to fork this repositor
 
 
 [![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/bypepe77/typescript-clean-architecture)](https://github.com/bypepe77/typescript-clean-architecture/stargazers)
+[![Forkers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/forks/bypepe77/typescript-clean-architecture)](https://github.com/bypepe77/typescript-clean-architecture/network/members)
