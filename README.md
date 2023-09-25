@@ -35,4 +35,4 @@ npm run dev
 
 
 ## Contributions:
-Your feedback and contributions are invaluable. Feel free to fork this repository, submit issues, or provide pull requests. Together, we can make this a reference for TypeScript projects!
+Your feedback and contributions are invaluable. Feel free to fork this repository, submit issues, or provide pull requests.
